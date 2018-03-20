@@ -1,3 +1,3 @@
 # bookstore-assignment
-Contoller API:
+Controller API:
 
